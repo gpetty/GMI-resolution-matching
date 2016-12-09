@@ -9,9 +9,13 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-Publications utilizing the data and/or programs supplied herein shall cite the following source:
+Publications utilizing the data and/or programs supplied herein shall cite the following sources:
 
 Petty, G. W. and Bennartz, R.: Field-of-view characteristics and resolution matching for the Global Precipitation Measurement (GPM) Microwave Imager (GMI), Atmos. Meas. Tech. Discuss., doi:10.5194/amt-2016-275, in review, 2016. 
+
+Petty, G. W. and Bennartz, R.: Resolution matching coefficients for the Global Precipitation Measurement (GPM) Mi-
+crowave Imager (GMI), electronic download, doi:10.5281/zenodo.198796, https://zenodo.org/account/settings/github/repository/gpetty/
+GMI-resolution-matching, 2016.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
